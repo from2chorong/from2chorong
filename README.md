@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=ffe344&text=Chorong&fontColor=ffffff&fontSize=80&fontAlign=24&fontAlignY=40.2&descAlign=0)
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
